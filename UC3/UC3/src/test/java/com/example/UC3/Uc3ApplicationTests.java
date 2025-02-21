@@ -1,10 +1,10 @@
-package com.example.UC2;
+package com.example.UC3;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Uc2ApplicationTests {
+class Uc3ApplicationTests {
 
 	@Test
 	void contextLoads() {
